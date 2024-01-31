@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Flutuar.com é uma land page feita para encontrar pacotes de viagens nacionais e internacionais que incluem: passagem aérias, hoteis, café da manhã e até seguro viagem.
 
-- [Acesse o projeto finalizado, online](https://gustavo-bercacollo.github.io/link-page/)
+- [Acesse o projeto finalizado, online](https://gustavo-bercacollo.github.io/flutuar.com/)
 
 ## :memo: Licença
 
