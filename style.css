@@ -1,0 +1,62 @@
+#main {
+  text-align: center;
+}
+
+#main img {
+  margin-top: 0px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  color: #3F3D56;
+  margin-bottom: 16px;
+}
+
+h1 span {
+  font-weight: 700;
+  color: #EE24FF;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+  margin-bottom: 64px;
+}
+
+span {
+  color: #3F3D56;
+  font-weight: 700;
+}
+
+.palavraFlutuar {
+  color: #828282;;
+}
+
+#line {
+text-align: center;
+margin-bottom: 16px;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  text-decoration: none;
+  font-family: "Open Sans";
+  font-size: 15px;
+  margin-left: 42px;
+}
+
+.wave {
+  width: 100%;
+  position: fixed;
+  bottom: -50px;
+  left: 0;
+}
